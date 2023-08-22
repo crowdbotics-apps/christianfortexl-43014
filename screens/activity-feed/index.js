@@ -107,7 +107,8 @@ const styles = StyleSheet.create({
   },
   textarea: {
     display: "flex",
-    alignItems: "center"
+    alignItems: "center",
+    borderRadius: 57
   },
   followingText: {
     fontSize: 14,
